@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Quản Lý Sinh Viên</string>
+    <string name="app_title">Quản Lý Sinh Viên</string>
+    <string name="detail_title">Chi Tiết Sinh Viên</string>
+    <string name="add_title">Thêm Sinh Viên Mới</string>
+    <string name="edit_title">Chỉnh Sửa Sinh Viên</string>
+
+    <string name="search_placeholder">Tìm theo tên, MSSV, email…</string>
+    <string name="full_name_label">Họ và Tên *</string>
+    <string name="full_name_placeholder">Nhập họ tên sinh viên</string>
+    <string name="student_id_label">Mã Số Sinh Viên (MSSV) *</string>
+    <string name="student_id_placeholder">Ví dụ: BIT240001</string>
+    <string name="email_label">Email *</string>
+    <string name="email_placeholder">example@gmail.com</string>
+    <string name="avatar_url_label">Link ảnh Avatar (URL hoặc đường dẫn)</string>
+    <string name="avatar_url_placeholder">https://picsum.photos/seed/…</string>
+    <string name="choose_from_gallery">Chọn ảnh từ thư viện</string>
+    <string name="no_students_found">Không tìm thấy sinh viên phù hợp</string>
+    <string name="no_students_empty">Chưa có sinh viên nào. Nhấn + để thêm mới!</string>
+    <string name="loading_student">Đang tải thông tin sinh viên…</string>
+
+    <string name="btn_add">Thêm Sinh Viên</string>
+    <string name="btn_edit">Chỉnh Sửa</string>
+    <string name="btn_delete">Xóa</string>
+    <string name="btn_save_changes">Lưu Thay Đổi</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_back">Quay Lại</string>
+    <string name="btn_yes">Có</string>
+    <string name="btn_no">Không</string>
+    <string name="btn_agree">Đồng ý</string>
+
+    <string name="err_name_empty">Vui lòng nhập họ và tên</string>
+    <string name="err_student_id_empty">Vui lòng nhập MSSV</string>
+    <string name="err_student_id_invalid">MSSV phải có dạng B**22**** (Ví dụ: BIT240001)</string>
+    <string name="err_email_empty">Vui lòng nhập Email</string>
+    <string name="err_email_invalid">Email không đúng định dạng (Ví dụ: abc@gmail.com)</string>
+
+    <string name="confirm_delete_title">Xác nhận xóa</string>
+    <string name="confirm_delete_msg">Bạn có muốn xóa thông tin SV không?</string>
+    <string name="confirm_edit_title">Xác nhận sửa</string>
+    <string name="confirm_edit_msg">Bạn có muốn sửa thông tin SV không?</string>
+
+    <string name="permission_dialog_title">Yêu cầu cấp quyền</string>
+    <string name="permission_dialog_msg">Ứng dụng cần quyền truy cập ảnh/bộ nhớ để chọn avatar từ thư viện. Bạn có đồng ý cấp quyền không?</string>
+    <string name="permission_denied_msg">Quyền truy cập bị từ chối. Không thể chọn ảnh từ thư viện.</string>
+</resources>

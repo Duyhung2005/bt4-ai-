@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Student Management</string>
+    <string name="app_title">Student Management</string>
+    <string name="detail_title">Student Details</string>
+    <string name="add_title">Add New Student</string>
+    <string name="edit_title">Edit Student</string>
+
+    <string name="search_placeholder">Search by name, ID, email...</string>
+    <string name="full_name_label">Full Name *</string>
+    <string name="full_name_placeholder">Enter student full name</string>
+    <string name="student_id_label">Student ID (MSSV) *</string>
+    <string name="student_id_placeholder">e.g. BIT240001</string>
+    <string name="email_label">Email *</string>
+    <string name="email_placeholder">example@gmail.com</string>
+    <string name="avatar_url_label">Avatar Image Link (URL or path)</string>
+    <string name="avatar_url_placeholder">https://picsum.photos/seed/...</string>
+    <string name="choose_from_gallery">Select image from gallery</string>
+    <string name="no_students_found">No matching students found</string>
+    <string name="no_students_empty">No students available. Tap + to add!</string>
+    <string name="loading_student">Loading student details...</string>
+
+    <string name="btn_add">Add Student</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_save_changes">Save Changes</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="btn_agree">Agree</string>
+
+    <string name="err_name_empty">Please enter full name</string>
+    <string name="err_student_id_empty">Please enter Student ID</string>
+    <string name="err_student_id_invalid">Student ID must be format B**22**** (e.g. BIT240001)</string>
+    <string name="err_email_empty">Please enter Email</string>
+    <string name="err_email_invalid">Invalid Email format (e.g. abc@gmail.com)</string>
+
+    <string name="confirm_delete_title">Confirm Delete</string>
+    <string name="confirm_delete_msg">Do you want to delete student information?</string>
+    <string name="confirm_edit_title">Confirm Edit</string>
+    <string name="confirm_edit_msg">Do you want to edit student information?</string>
+
+    <string name="permission_dialog_title">Permission Request</string>
+    <string name="permission_dialog_msg">App needs photo/storage access to select avatar image from gallery. Do you want to grant permission?</string>
+    <string name="permission_denied_msg">Permission denied. Cannot select photo from gallery.</string>
+</resources>
